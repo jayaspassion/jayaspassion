@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jayasoorya, a passionate self-taught Full Stack Web Developer and a freelance software engineer from India. I enjoy problem-solving and my passion for software lies with coming up with new ideas and implementing them.
+### Hi there 👋 I'm Jayasoorya, a passionate self-taught Full Stack Web Developer from India. I enjoy problem-solving and my passion for software lies with coming up with new ideas and implementing them.
 
 I am also an open-source enthusiast and continue to keep learning from the open-source community!
 
