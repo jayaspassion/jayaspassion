@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Jayasoorya, a passionate self-taught Full Stack Web Developer from India. I enjoy problem-solving and my passion for software lies with coming up with new ideas and implementing them.
+### Hi there 👋 I'm Jayasoorya, a passionate, Full-Stack Web Developer from India. I enjoy problem-solving, and my passion for software lies in coming up with new ideas and implementing them.
 
-I am also an open-source enthusiast and continue to keep learning from the open-source community!
+I am also an open-source enthusiast and continue learning from the open-source community!
 
-💼 Want to connect for enquiring about freelance work? Reach out to me at jayaspassion@gmail.com
+💼 Want to connect to enquire about freelance work? Reach out to me at jayaspassion@gmail.com
 
 💬 Ask me anything, I'm happy to help :)
 
